@@ -9,6 +9,8 @@
 Google plusCode를 사용하여 구현하였습니다.
 소스는 NDA규정이 걸려있어 비공개입니다. 
 
+<img src="cell_status_desc.png"/>
+
 
 # stack
 
