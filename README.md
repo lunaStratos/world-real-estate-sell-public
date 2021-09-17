@@ -1,9 +1,9 @@
 # world-real-estate-sell
 
 
-[![실제 동작 모습](http://img.youtube.com/vi/H_brJF84_Ww/0.jpg)](https://www.youtube.com/watch?v=H_brJF84_Ww)
+[![실제 동작 모습](http://img.youtube.com/vi/qR-hV2CV2LE/0.jpg)](https://www.youtube.com/watch?v=qR-hV2CV2LE)
 
-영상소개 https://www.youtube.com/watch?v=H_brJF84_Ww
+영상소개 https://www.youtube.com/watch?v=qR-hV2CV2LE
 
 전 세계의 땅을 10M * 10M단위로 팔수 있는 웹서비스입니다.
 Google plusCode를 사용하여 구현하였습니다.
